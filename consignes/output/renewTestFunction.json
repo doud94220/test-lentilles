@@ -1,0 +1,18 @@
+[
+    {
+        "client_id": 14,
+        "client_name": "Toto",
+        "last_order_id": 1,
+        "last_order_date": "2022-01-01",
+        "last_order_duration": 30,
+        "expected_renew_date": "2022-01-31"
+    },
+    {
+        "client_id": 103,
+        "client_name": "Arnold",
+        "last_order_id": 3,
+        "last_order_date": "2022-01-02",
+        "last_order_duration": 365,
+        "expected_renew_date": "2022-06-24"
+    }
+]

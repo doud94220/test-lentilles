@@ -1,0 +1,49 @@
+{
+  "clients": [
+    {
+      "id": 14,
+      "name": "Toto"
+    },
+    {
+      "id": 32,
+      "name": "Franklin"
+    },
+    {
+      "id": 103,
+      "name": "Arnold"
+    }
+  ],
+  "orders": 
+  [
+    {
+      "id": 1,
+      "client_id": 14,
+      "date": "2022-01-01",
+      "details":
+      [
+        {"name": "Acuvue One Day 30", "duration": 30},
+        {"name": "Solution 1"}
+      ]
+    },
+    {
+      "id": 2,
+      "client_id": 32,
+      "date": "2022-01-02",
+      "details":
+      [
+        {"name": "Solution 1"}
+      ]
+    },
+    {
+      "id": 3,
+      "client_id": 103,
+      "date": "2022-01-02",
+      "details":
+      [
+        {"name": "Acuvue One Year", "duration": 365},
+        {"name": "Solution 1"}
+
+      ]
+    }
+  ]
+}
